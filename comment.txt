@@ -1,0 +1,78 @@
+{
+    "/AP": {
+      "/N": pikepdf.Stream(owner=<...>, data=<...>, {
+          "/BBox": [ Decimal('0.0'), Decimal('0.0'), Decimal('370.072'), Decimal('21.3631') ],
+          "/FormType": 1,
+          "/Length": 27,
+          "/Matrix": [ Decimal('1.0'), Decimal('0.0'), Decimal('0.0'), Decimal('1.0'), Decimal('0.0'), Decimal('0.0') ],
+          "/Resources": {
+            "/ExtGState": {
+              "/R0": {
+                "/AIS": False,
+                "/CA": Decimal('0.399994'),
+                "/Type": "/ExtGState",
+                "/ca": Decimal('0.399994')
+              },
+              "/R1": {
+                "/AIS": False,
+                "/BM": "/Multiply",
+                "/Type": "/ExtGState"
+              }
+            },
+            "/ProcSet": [ "/PDF" ],
+            "/XObject": {
+              "/MWFOForm": pikepdf.Stream(owner=<...>, data=<...>, {
+                  "/BBox": [ Decimal('0.0'), Decimal('0.0'), Decimal('370.072'), Decimal('21.3631') ],
+                  "/FormType": 1,
+                  "/Group": {
+                    "/S": "/Transparency"
+                  },
+                  "/Length": 9,
+                  "/Matrix": [ Decimal('1.0'), Decimal('0.0'), Decimal('0.0'), Decimal('1.0'), Decimal('0.0'), Decimal('0.0') ],
+                  "/Resources": {
+                    "/ProcSet": [ "/PDF" ],
+                    "/XObject": {
+                      "/Form": pikepdf.Stream(owner=<...>, data=<...>, {
+                          "/BBox": [ Decimal('76.1326'), Decimal('541.062'), Decimal('446.204'), Decimal('562.425') ],
+                          "/FormType": 1,
+                          "/Length": 175,
+                          "/Matrix": [ Decimal('1.0'), Decimal('0.0'), Decimal('0.0'), Decimal('1.0'), Decimal('-76.1326'), Decimal('-541.062') ],
+                          "/Resources": {
+                            "/ProcSet": [ "/PDF" ]
+                          },
+                          "/Subtype": "/Form",
+                          "/Type": "/XObject"
+                        })
+                    }
+                  },
+                  "/Subtype": "/Form",
+                  "/Type": "/XObject"
+                })
+            }
+          },
+          "/Subtype": "/Form",
+          "/Type": "/XObject"
+        })
+    },
+    "/C": [ Decimal('0.984314'), Decimal('0.53334'), Decimal('1.0') ],
+    "/CA": Decimal('0.399994'),
+    "/CreationDate": "D:20220402235706-07'00'",
+    "/F": 4,
+    "/M": "D:20220402235706-07'00'",
+    "/NM": "1de37c92-06e2-4c6d-adde-c9da39a1350a",
+    "/P": <.get_object(76, 0)>,
+    "/Popup": {
+      "/F": 28,
+      "/Open": False,
+      "/Parent": <.get_object(130, 0)>,
+      "/Rect": [ Decimal('612.0'), Decimal('447.797'), Decimal('816.0'), Decimal('561.797') ],
+      "/Subtype": "/Popup",
+      "/Type": "/Annot"
+    },
+    "/QuadPoints": [ Decimal('81.5'), Decimal('561.797'), Decimal('440.837'), Decimal('561.797'), Decimal('81.5'), Decimal('541.69'), Decimal('440.837'), Decimal('541.69') ],
+    "/Rect": [ Decimal('76.1326'), Decimal('541.062'), Decimal('446.204'), Decimal('562.425') ],
+    "/Subj": "Highlight",
+    "/Subtype": "/Highlight",
+    "/T": "villedepommes",
+    "/Type": "/Annot"
+}
